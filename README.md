@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @soccerteh
-- 👀 I’m interested in Salesforce development
-- 🌱 I’m currently learning Lightning Web Components
-- 💞️ I’m looking to collaborate on anything Apex!
+- 👀 I’m interested in Salesforce development and architecture
+- 💞️ I’m looking to collaborate on anything Salesforce!
 
 <!---
 soccerteh/soccerteh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
